@@ -258,6 +258,122 @@ The common understanding is **wrong**. The truth:
 
 ---
 
+## Part 8: Revised Cosmology for the Fanfic
+
+*This section represents our story's interpretation of Atlantis, building on HPMOR canon while filling gaps left by the source material.*
+
+### The Source of Magic: Primordial, Not Atlantean
+
+The Source of Magic always existed—perhaps truly primordial, perhaps created by something so ancient it's beyond memory. It's a fundamental feature of reality, like gravity or time.
+
+Early humans could interact with it, but chaotically, dangerously. Magic without structure is like electricity without circuits—raw, lethal, unpredictable.
+
+**Key insight:** Harry's theory in HPMOR is that Atlantis *created* the Source. But if Atlantis was erased from Time, the Source would have vanished with them. Our interpretation: the Source predates Atlantis. What Atlantis created was the *interface*.
+
+### Atlantis: The Gatekeepers
+
+Atlantis didn't create magic. They **systematized** it.
+
+Their ancestors, eons ago, built:
+
+- **Genetic authentication** — markers in their bloodline that let the Source recognize "authorized users"
+- **The spell-word interface** — verbal commands programmed to produce consistent, predictable effects
+- **Administrative infrastructure** — a society built around regulating, teaching, and controlling magical access
+
+They live in lofty towers above a dying world. The non-Atlanteans below can't access the Source. They exist in a world where magic is real but denied to them.
+
+**Atlantis isn't a utopia. It's a gated community.**
+
+### The Dying World Below
+
+The world beneath Atlantis's towers is populated by people without the genetic markers—or whose markers are dormant, or corrupted, or simply not recognized by the system. They see Atlantean magic. They benefit from scraps of it. But they cannot wield it themselves.
+
+This creates:
+- Resentment and class tension
+- An underclass that some Atlanteans exploit, others pity, most ignore
+- A moral crisis that thoughtful Atlanteans cannot fully rationalize away
+
+### The Good Intention: Democratization
+
+Someone looks at this system and sees injustice. Why should magic be hoarded by bloodline? Why should billions suffer while Atlanteans live in splendor?
+
+They find a way to give magic to everyone:
+- Modifying the genetic marker so it spreads to all humans
+- Rewriting the Source's authentication to accept anyone
+- Opening the "gates" of the Atlantean system
+
+They think they're liberating humanity. Prometheus bringing fire.
+
+### Why It Goes Wrong
+
+The Atlantean system wasn't just gatekeeping—it was **load-bearing**.
+
+The Source responding to millions of untrained minds, all at once, with no administrative oversight, no safety protocols, no understanding of what they're doing—reality begins to tear. Causality fractures. The spell-word interface, designed for a limited population with shared training, can't handle the contradictory intents of billions.
+
+Or perhaps: the other Atlanteans, seeing their power threatened, react catastrophically. Civil war with reality-warping weapons. The "good intention" triggers a defensive response that escalates beyond control.
+
+### The Erasure: Damage Control
+
+The only way to stop the cascade is to sever Atlantis from Time entirely. Remove the civilization that built the authentication system.
+
+But the genetic markers had already spread. They're in the population now—"outside" the causal chain of Atlantis proper. The Source still recognizes them. The spell-words still work.
+
+**What's lost:**
+- The administrative knowledge
+- The understanding of *why* spells work
+- The safety systems
+- The ability to modify or improve the interface
+
+Magic persists, but orphaned. A system without administrators.
+
+### Merlin: The Patch
+
+Generations later, Merlin arises. He's a descendant—he carries the genetic markers—and he's brilliant enough to partially understand what happened.
+
+He sees the chaos: powerful spells cast by people who don't understand them, knowledge spreading through books, letting anyone attempt dangerous magic. The Source is still there, still functional, but it's being abused by people who don't understand the system they're using.
+
+**The Interdict isn't about hoarding power. It's triage.**
+
+Merlin can't rebuild Atlantean administration. But he can limit the damage by ensuring powerful spells can only pass from living mind to living mind. Teachers who understand can pass knowledge to students they've vetted. Books can't spread dangerous spells to everyone indiscriminately.
+
+It's not a solution. It's a bandage on a wound that will never fully heal.
+
+### The HPMOR Theme: Good Intentions
+
+The protagonist isn't destroying Atlantis through selfishness or stupidity. They're destroying it through *justice*. They looked at an unfair system and tried to fix it.
+
+- They were **right** that it was unfair.
+- They were **wrong** that they could fix it safely.
+- The road to erasing a civilization from Time was paved with good intentions.
+
+---
+
+## Part 9: Character Concepts
+
+### The Reformer (Protagonist)
+
+An Atlantean who's seen the suffering below. Brilliant, idealistic, convinced they can democratize magic safely. They're *almost* right. Their fatal flaw isn't ignorance—it's confidence. They understand the system better than almost anyone, but "almost" isn't enough when you're rewriting reality.
+
+### The Administrator (Antagonist)
+
+Someone who genuinely believes the system is necessary. Not evil, not selfish—they've seen what happens when unqualified people access the Source. They've cleaned up the accidents. They know the horror stories.
+
+They're the antagonist, but they might be *right*.
+
+### The Outsider
+
+Someone from the dying world below who somehow gained access—illegally? Through the protagonist's early experiments? They provide perspective on what Atlantis looks like from outside. They may be the protagonist's motivation, their proof-of-concept, and ultimately their blind spot.
+
+### The Foreseer
+
+Sees the catastrophe coming but not clearly enough to understand that the *protagonist* causes it. Spends the story trying to prevent the wrong thing. Their warnings are technically accurate but misleading—the classic prophecy trap.
+
+### The Mirror-Builder
+
+Still working on the Mirror of Perfect Reflection. Perhaps they see it as an alternative solution—a way to grant wishes *safely*, to democratize magic *correctly*, if only they had more time. They represent the path not taken.
+
+---
+
 ## Source References
 
 All quotes extracted from the HPMOR chapter files:
