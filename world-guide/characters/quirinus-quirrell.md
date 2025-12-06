@@ -425,14 +425,31 @@
 
 ## Cross-References
 
-- [See Harry Potter](./harry-james-potter-evans-verres.md) - Primary relationship, intended heir
-- [See David Monroe](../world/war-history.md) - Previous identity as war hero
-- [See Lord Voldemort](../world/dark-lords.md) - True identity and history
-- [See Battle Magic](../magic/battle-magic.md) - Teaching specialty
-- [See Azkaban Breakout](../world/azkaban.md) - Major plot event
-- [See Horcruxes](../magic/horcruxes.md) - Method of immortality attempt
-- [See Parseltongue](../magic/parseltongue.md) - Native language reveals true self
-- [See Dementors](../magic/dementors.md) - What he fears and discusses
+### Related Characters
+- [Harry Potter](./harry-james-potter-evans-verres.md) - Primary relationship, intended heir
+- [Hermione Granger](./hermione-granger.md) - Student, later opponent
+- [Albus Dumbledore](./albus-dumbledore.md) - Old enemy, Hogwarts adversary
+- [Draco Malfoy](./draco-malfoy.md) - Lucius's son, observed and influenced
+
+### Related Magic & Abilities
+- [Dark Arts](../magic/dark-arts.md) - Horcruxes, killing curses, immortality methods
+- [Spells Catalog](../magic/spells-catalog.md) - Battle magic specialist
+- [Patronus](../magic/patronus.md) - Cannot cast; fears Dementors
+
+### Related Locations & Events
+- [Azkaban](../locations/azkaban.md) - Breakout of Bellatrix Black
+- [Hogwarts](../organizations/hogwarts.md) - Defense Professor
+- [Backstory](../timeline/backstory.md) - Voldemort's history and David Monroe identity
+
+### Related Themes
+- [Death and Dementors](../cosmology/death-and-dementors.md) - Fears death above all
+- [Ethical Frameworks](../themes/ethical-frameworks.md) - Pure consequentialism without empathy
+- [Interdict of Merlin](../magic/interdict-of-merlin.md) - Limitations on knowledge transmission
+
+### Writing Reference
+- [Voice Guides](../writing-reference/voice-guides.md) - Quirrell's distinctive speech patterns
+- [Canon Divergences](../writing-reference/canon-divergences.md) - Completely reimagined from HP canon
+- [Loose Threads](../writing-reference/loose-threads.md) - Voldemort's final fate and implications
 
 ---
 

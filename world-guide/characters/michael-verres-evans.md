@@ -100,9 +100,18 @@
 
 ## Cross-References
 
-- [See Harry Potter](./harry-james-potter-evans-verres.md)
-- [See Petunia Evans-Verres](./petunia-evans-verres.md)
-- [See Verres Family](../world/families.md)
+### Related Characters
+- [Harry Potter](./harry-james-potter-evans-verres.md) - Adoptive son, taught rationality and science
+- [Petunia Evans-Verres](./petunia-evans-verres.md) - Wife, took her name due to her higher status
+
+### Related Themes
+- [Rationality Concepts](../themes/rationality-concepts.md) - Taught Harry cognitive biases, Bayesian thinking
+- [Scientific Method](../themes/scientific-method.md) - Raised Harry with Feynman Lectures, experimental thinking
+- [Backstory](../timeline/backstory.md) - Harry's upbringing, adoption circumstances
+
+### Writing Reference
+- [Voice Guides](../writing-reference/voice-guides.md) - Academic, professorial speech patterns
+- [Canon Divergences](../writing-reference/canon-divergences.md) - Scientist father vs. Vernon Dursley
 
 ---
 

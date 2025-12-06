@@ -96,9 +96,17 @@
 
 ## Cross-References
 
-- [See Harry Potter](./harry-james-potter-evans-verres.md)
-- [See Michael Verres-Evans](./michael-verres-evans.md)
-- [See Lily Potter](../world/potter-family.md)
+### Related Characters
+- [Harry Potter](./harry-james-potter-evans-verres.md) - Adoptive son, deeply loves and fears for
+- [Michael Verres-Evans](./michael-verres-evans.md) - Husband, Oxford professor
+- [Albus Dumbledore](./albus-dumbledore.md) - Arranged adoption, transfigured her for Lily
+
+### Related Events & Themes
+- [Backstory](../timeline/backstory.md) - Lily's transformation potion, Potter family deaths, Harry's adoption
+- [Canon Divergences](../writing-reference/canon-divergences.md) - Transformed, loving mother vs bitter canon Petunia
+
+### Writing Reference
+- [Voice Guides](../writing-reference/voice-guides.md) - Elegant, vulnerable speech patterns
 
 ---
 

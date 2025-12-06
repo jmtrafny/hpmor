@@ -174,10 +174,28 @@
 
 ## Cross-References
 
-- [See Harry Potter](./harry-james-potter-evans-verres.md) - Best friend
-- [See S.P.H.E.W.](../world/organizations.md) - Organization she founded
-- [See Sunshine Regiment](../magic/battle-magic.md) - Her army
-- [See Noble House Granger](../world/noble-houses.md) - Established for her
+### Related Characters
+- [Harry Potter](./harry-james-potter-evans-verres.md) - Best friend, resurrected her
+- [Draco Malfoy](./draco-malfoy.md) - Army rival, wall-climbing incident
+- [Quirinus Quirrell](./quirinus-quirrell.md) - Defense Professor, complex relationship
+- [Minerva McGonagall](./minerva-mcgonagall.md) - Head of Ravenclaw House
+
+### Related Organizations
+- [Hogwarts](../organizations/hogwarts.md) - Ravenclaw House, General of Sunshine Regiment
+- [Noble House Granger](../organizations/noble-houses.md) - Noble House established for her by Harry
+
+### Related Magic
+- [Dark Arts](../magic/dark-arts.md) - False accusation of dark magic use
+- [Patronus](../magic/patronus.md) - Her Patronus form
+
+### Related Themes & Events
+- [Death and Dementors](../cosmology/death-and-dementors.md) - Her death and resurrection
+- [Ethical Frameworks](../themes/ethical-frameworks.md) - Her moral heroism
+- [Post-Story State](../timeline/post-story-state.md) - Her fate after resurrection
+
+### Writing Reference
+- [Voice Guides](../writing-reference/voice-guides.md) - Hermione's speech patterns
+- [Loose Threads](../writing-reference/loose-threads.md) - Post-resurrection story opportunities
 
 ---
 

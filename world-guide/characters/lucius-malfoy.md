@@ -93,9 +93,23 @@
 
 ## Cross-References
 
-- [See Draco Malfoy](./draco-malfoy.md)
-- [See House Malfoy](../world/noble-houses.md)
-- [See Wizengamot](../world/government.md)
+### Related Characters
+- [Draco Malfoy](./draco-malfoy.md) - Son, genuinely loves and mentors
+- [Harry Potter](./harry-james-potter-evans-verres.md) - Temporary alliance during Hermione's trial
+- [Albus Dumbledore](./albus-dumbledore.md) - Political adversary
+
+### Related Organizations
+- [Noble Houses](../organizations/noble-houses.md) - Patriarch of House Malfoy
+- [Wizengamot](../organizations/wizengamot.md) - Skilled political operator
+- [Death Eaters](../organizations/death-eaters.md) - Former member, lost power after Voldemort's fall
+
+### Related Events
+- [Backstory](../timeline/backstory.md) - First War, post-Voldemort power loss
+- [Year One Timeline](../timeline/year-one-timeline.md) - Hermione's trial, alliance with Harry
+
+### Writing Reference
+- [Voice Guides](../writing-reference/voice-guides.md) - Aristocratic, politically careful speech
+- [Canon Divergences](../writing-reference/canon-divergences.md) - Actually competent politician, not bumbling
 
 ---
 

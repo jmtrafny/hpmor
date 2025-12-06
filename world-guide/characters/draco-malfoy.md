@@ -106,9 +106,22 @@
 
 ## Cross-References
 
-- [See Harry Potter](./harry-james-potter-evans-verres.md)
-- [See Lucius Malfoy](./lucius-malfoy.md)
-- [See House Malfoy](../world/noble-houses.md)
+### Related Characters
+- [Harry Potter](./harry-james-potter-evans-verres.md) - Best friend, mentor in scientific method
+- [Hermione Granger](./hermione-granger.md) - Wall-climbing incident, army rival
+- [Lucius Malfoy](./lucius-malfoy.md) - Father, source of blood purity beliefs
+- [Quirinus Quirrell](./quirinus-quirrell.md) - Defense Professor
+
+### Related Organizations
+- [Hogwarts](../organizations/hogwarts.md) - Slytherin House student, General of Dragon Army
+- [Noble Houses](../organizations/noble-houses.md) - House Malfoy heir
+- [Death Eaters](../organizations/death-eaters.md) - Father's involvement, truth revealed to Draco
+
+### Related Themes
+- [Ethical Frameworks](../themes/ethical-frameworks.md) - Draco's moral evolution
+- [Scientific Method](../themes/scientific-method.md) - Learns experimental thinking from Harry
+- [Canon Divergences](../writing-reference/canon-divergences.md) - Redemption arc vs HP canon
+- [Voice Guides](../writing-reference/voice-guides.md) - Draco's aristocratic speech patterns
 
 ---
 

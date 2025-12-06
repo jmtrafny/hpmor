@@ -96,9 +96,25 @@
 
 ## Cross-References
 
-- [See Harry Potter](./harry-james-potter-evans-verres.md)
-- [See Grindelwald](../world/dark-lords.md)
-- [See Fawkes](../magic/phoenixes.md)
+### Related Characters
+- [Harry Potter](./harry-james-potter-evans-verres.md) - Adversarial relationship, sees Harry as potential Dark Lord
+- [Quirinus Quirrell](./quirinus-quirrell.md) - Old enemy, Voldemort in disguise
+- [Minerva McGonagall](./minerva-mcgonagall.md) - Deputy, loyal but increasingly independent
+- [Severus Snape](./severus-snape.md) - Complex relationship, Lily's friend
+
+### Related Organizations & Locations
+- [Hogwarts](../organizations/hogwarts.md) - Headmaster
+- [Wizengamot](../organizations/wizengamot.md) - Chief Warlock
+- [Order of the Phoenix](../organizations/order-of-phoenix.md) - Founded organization
+
+### Related Themes & Events
+- [Backstory](../timeline/backstory.md) - Grindelwald war, sister's death, past burdens
+- [Ethical Frameworks](../themes/ethical-frameworks.md) - "Greater good" philosophy vs Harry's heroic responsibility
+- [Death and Dementors](../cosmology/death-and-dementors.md) - Accepts death as "next great adventure"
+
+### Writing Reference
+- [Voice Guides](../writing-reference/voice-guides.md) - Dumbledore's whimsical, elliptical speech
+- [Canon Divergences](../writing-reference/canon-divergences.md) - More tragic and flawed than HP canon
 
 ---
 

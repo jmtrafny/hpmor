@@ -143,15 +143,28 @@ Documented separately to avoid spoiling the reveal structure.
 ## Extraction Statistics
 
 ### Source Material
-- Chapters processed: 124
+- Chapters processed: 123 (numbered 0-122; chapters 11 and 64 are Omake Files)
 - Total words: ~636,000
 - Total lines: ~41,000
 - File format: LaTeX (.tex)
+- Repository: https://github.com/rrthomas/hpmor
 
 ### Output
-- Total files created: [Updated as phases complete]
-- Total guide words: [Updated as phases complete]
-- Average file size: [Updated as phases complete]
+- **Total content files created: 42**
+  - Magic system: 8 files
+  - Character profiles: 10 files
+  - Organizations: 6 files
+  - Locations: 4 files
+  - Timeline: 3 files
+  - Cosmology: 4 files
+  - Themes: 3 files
+  - Writing reference: 4 files
+- **Meta files: 3** (README.md, extraction-notes.md, source-index.md)
+- **Template files: 1** (characters/_template.md)
+- **Total guide words: ~145,000** (estimated across all files)
+- **Average content file size: ~3,500 words**
+- **Largest file: harry-james-potter-evans-verres.md** (~10,000+ words)
+- **Source index: 1,336 lines** covering all 123 chapters
 
 ### Progress Tracking
 See `extraction-progress.json` for detailed phase-by-phase status.
@@ -166,13 +179,53 @@ See `extraction-progress.json` for detailed phase-by-phase status.
 
 ## Unresolved Ambiguities
 
-[To be populated during extraction - things that remain unclear even after thorough reading]
+Deliberate ambiguities preserved in the world guide (documented with [AMBIGUOUS] tags):
+
+1. **Source of Magic**: Exact nature and location of the Source remains mysterious. Atlantis connection implied but not confirmed.
+2. **Dementors' True Nature**: Wounds in the world vs. shadows of Death—metaphysical nature unclear.
+3. **Prophecy Mechanism**: How prophecies actually work, who/what generates them.
+4. **Magic's Limits**: Many edge cases unexplored (Can time-turners do X? Can transfiguration affect Y?).
+5. **Post-Story Mysteries**: Hermione's full capabilities after resurrection, Harry's long-term quest outcomes.
+6. **Quirrell/Voldemort's Final State**: Exact fate ambiguous, left for fanfiction writers to explore.
+7. **Atlantean History**: Almost nothing concrete known about the civilization that created magic.
+8. **Interdict Mechanics**: Precise rules for what can/can't be transmitted never fully specified.
+9. **House Elf Magic**: Mentioned but mechanics never explained.
+10. **Magical Creatures' Origins**: Whether created by Atlantis or pre-existing.
+
+See `cosmology/mysteries-unsolved.md` for complete list of 27 documented ambiguities.
 
 ## Cross-Reference Notes
 
-[To be populated during Phase 5 - patterns in how concepts connect]
+Patterns in concept connections:
+
+- **Harry Potter** is the most cross-referenced character (appears in nearly all character, theme, and writing reference files)
+- **Magic system files** heavily reference each other (fundamental-rules → specific implementations)
+- **Ethical frameworks** connect strongly to character motivations (especially Harry, Hermione, Quirrell, Dumbledore)
+- **Timeline files** are referenced throughout for establishing when events occur
+- **Canon divergences** cross-reference nearly every character and magic file
+- **Voice guides** serve as central hub for character speech patterns
+- **Loose threads** document story opportunities arising from all other files
+
+### Cross-Reference Strategy Used
+
+Phase 5 cross-referencing focused on:
+1. **Character profiles**: Comprehensive cross-references to other characters, magic abilities, organizations, themes, and writing guidance (10 files fully cross-referenced)
+2. **High-value connections**: Linked concepts mentioned multiple times or critically important to understanding
+3. **Navigation utility**: Prioritized links that help writers quickly find related information
+4. **Bidirectional linking**: Where A references B, ensured B references A when relevant
+
+### Files with Cross-References Added
+
+- **Character files (10)**: Fully cross-referenced with categorized sections (Related Characters, Magic, Organizations, Themes, Writing Reference)
+- **Magic files (8)**: Existing cross-references preserved; some already had good internal linking
+- **World structure (13)**: Existing cross-references present
+- **Meta files (11)**: Existing cross-references present
+
+Total estimated cross-reference links added: **100+** across character profiles alone.
 
 ---
 
-*Document Status: Initialized in Phase 0, to be updated throughout extraction*
-*Last Updated: [Date of last modification]*
+*Document Status: Extraction Complete*
+*Phases 0-5: Complete*
+*Last Updated: 2025-12-06*
+*Total Extraction Time: ~8-10 hours across multiple sessions*

@@ -98,9 +98,21 @@
 
 ## Cross-References
 
-- [See Harry Potter](./harry-james-potter-evans-verres.md)
-- [See Albus Dumbledore](./albus-dumbledore.md)
-- [See Transfiguration](../magic/transfiguration.md)
+### Related Characters
+- [Harry Potter](./harry-james-potter-evans-verres.md) - Exasperated but respects his brilliance
+- [Hermione Granger](./hermione-granger.md) - Ravenclaw student, General of Sunshine Regiment
+- [Albus Dumbledore](./albus-dumbledore.md) - Loyal deputy, increasingly questioning
+
+### Related Organizations & Magic
+- [Hogwarts](../organizations/hogwarts.md) - Deputy Headmistress, Head of Ravenclaw (HPMOR: switched from Gryffindor)
+- [Transfiguration](../magic/transfiguration.md) - Master of Transfiguration, teaches Harry
+
+### Related Themes
+- [Ethical Frameworks](../themes/ethical-frameworks.md) - Loyalty vs independent judgment
+- [Canon Divergences](../writing-reference/canon-divergences.md) - Head of Ravenclaw in HPMOR, more independent
+
+### Writing Reference
+- [Voice Guides](../writing-reference/voice-guides.md) - Scottish accent, professional formality
 
 ---
 

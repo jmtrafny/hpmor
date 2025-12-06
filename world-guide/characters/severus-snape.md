@@ -91,9 +91,22 @@
 
 ## Cross-References
 
-- [See Harry Potter](./harry-james-potter-evans-verres.md)
-- [See Lily Potter](../world/potter-family.md)
-- [See James Potter](../world/potter-family.md)
+### Related Characters
+- [Harry Potter](./harry-james-potter-evans-verres.md) - Antagonistic relationship, forced to protect due to Lily
+- [Albus Dumbledore](./albus-dumbledore.md) - Complex relationship, fellow Order member
+- [Quirinus Quirrell](./quirinus-quirrell.md) - Fellow professor
+
+### Related Organizations
+- [Hogwarts](../organizations/hogwarts.md) - Potions Master, Head of Slytherin House
+- [Order of the Phoenix](../organizations/order-of-phoenix.md) - Member due to Lily
+
+### Related Themes & Events
+- [Backstory](../timeline/backstory.md) - Relationship with Lily, First War
+- [Post-Story State](../timeline/post-story-state.md) - Eventually leaves Hogwarts for new life
+
+### Writing Reference
+- [Voice Guides](../writing-reference/voice-guides.md) - Snape's contemptuous speech patterns
+- [Canon Divergences](../writing-reference/canon-divergences.md) - Gets to leave and start over, unlike HP canon
 
 ---
 

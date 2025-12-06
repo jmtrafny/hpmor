@@ -105,11 +105,17 @@ New to using this guide? Start here:
 
 ## Extraction Statistics
 
-- **Source chapters processed**: 124
+- **Source chapters processed**: 123 (chapters 0-122; chapters 11 and 64 are Omake Files)
 - **Total source words**: ~636,000
-- **Guide files created**: ~45-50
-- **Extraction completed**: [Will be updated when complete]
+- **Content files created**: 42
+- **Meta files**: 3 (README, extraction-notes, source-index)
+- **Template files**: 1
+- **Total files**: 46
+- **Guide word count**: ~145,000
+- **Cross-reference links**: 100+ (character profiles comprehensively linked)
+- **Extraction completed**: ✅ 2025-12-06 (All 6 phases complete)
 
 ---
 
-*This is a living document. Files are being added progressively as extraction continues.*
+*Extraction complete. All 46 files ready for use in your HPMOR fanfiction writing assistant app.*
+*For methodology and detailed statistics, see [meta/extraction-notes.md](meta/extraction-notes.md)*

@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(find:*)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(powershell \"Get-ChildItem ''c:\\Projects\\hpmor\\world-guide\\characters\\*.md'' | Measure-Object -Property Length -Sum | Select-Object Count,@{Name=''TotalKB'';Expression={[math]::Round($_Sum/1KB,1)}}\")",
+      "Bash(done)"
     ],
     "deny": [],
     "ask": []

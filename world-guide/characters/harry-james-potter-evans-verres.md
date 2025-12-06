@@ -461,15 +461,37 @@
 
 ## Cross-References
 
-- [See Hermione Granger](./hermione-granger.md) - Best friend and moral anchor
-- [See Draco Malfoy](./draco-malfoy.md) - Friend and redemption project
-- [See Quirinus Quirrell](./quirinus-quirrell.md) - Mentor and eventual antagonist
-- [See Albus Dumbledore](./albus-dumbledore.md) - Adversarial relationship
-- [See Partial Transfiguration](../magic/transfiguration.md) - Harry's unique magical innovation
-- [See True Patronus](../magic/patronus-charm.md) - Harry's other major magical discovery
-- [See Dementors](../magic/dementors.md) - Why death became Harry's enemy
-- [See Azkaban Breakout](../world/azkaban.md) - Major moral turning point
-- [See Potter Family](../world/noble-houses.md) - Family history and quest
+### Related Characters
+- [Hermione Granger](./hermione-granger.md) - Best friend and moral anchor
+- [Draco Malfoy](./draco-malfoy.md) - Friend and redemption project
+- [Quirinus Quirrell](./quirinus-quirrell.md) - Mentor and eventual antagonist
+- [Albus Dumbledore](./albus-dumbledore.md) - Adversarial relationship
+- [Petunia Evans-Verres](./petunia-evans-verres.md) - Mother figure, transfigured by Dumbledore
+- [Michael Verres-Evans](./michael-verres-evans.md) - Adoptive father, scientist
+- [Minerva McGonagall](./minerva-mcgonagall.md) - Head of Ravenclaw House
+- [Severus Snape](./severus-snape.md) - Antagonistic relationship, blackmailed via Dumbledore
+
+### Related Magic
+- [Partial Transfiguration](../magic/transfiguration.md#partial-transfiguration) - Harry's unique magical innovation
+- [True Patronus](../magic/patronus.md) - Harry's other major magical discovery
+- [Time-Turners](../magic/time-turners.md) - Device Harry uses regularly
+- [Dark Arts](../magic/dark-arts.md) - Horcruxes and implications for resurrection
+
+### Related Locations & Organizations
+- [Azkaban](../locations/azkaban.md) - Major moral turning point with breakout
+- [Hogwarts](../organizations/hogwarts.md) - Ravenclaw House student
+- [Noble Houses](../organizations/noble-houses.md) - Head of House Potter, creator of House Granger
+
+### Related Themes
+- [Death and Dementors](../cosmology/death-and-dementors.md) - Why death became Harry's enemy
+- [Rationality Concepts](../themes/rationality-concepts.md) - Cognitive biases and Bayesian reasoning Harry applies
+- [Scientific Method](../themes/scientific-method.md) - Harry's approach to magic
+- [Ethical Frameworks](../themes/ethical-frameworks.md) - Utilitarian philosophy and heroic responsibility
+
+### Writing Reference
+- [Voice Guides](../writing-reference/voice-guides.md) - Comparative character voice analysis
+- [Canon Divergences](../writing-reference/canon-divergences.md) - How HPMOR Harry differs from HP canon
+- [Loose Threads](../writing-reference/loose-threads.md) - Post-canon story opportunities involving Harry
 
 ---
 
