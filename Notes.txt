@@ -1,0 +1,9 @@
+Notes:
+
+New rule we need to add to the docs, Merlin holds the Philosopher's Stone.
+
+"The Interdict," Arthur said slowly. "The reason powerful magic cannot be written down. That is not a spell you cast." // This should be rewritten to say: "The Interdict," Arthur said slowly. "The reason powerful magic cannot be written down. The spell you laid upon the world..."
+
+"My wisest self is tired, Arthur." Merlin's voice was barely audible. "My wisest self has been holding the knife alone for so long that he has forgotten what it felt like to have someone else understand why he cannot put it down." // I'm going to riff on this line for a bit:
+
+"My wisest self is tired, Arthur." Merlin's voice was barely audible. "My wisest self holds the knife alone and does not know what it felt like to have someone else understand why he cannot put it down. Us, standing here together, proves that I am *not* my wisest self- and that the mirror reflects a world that will never be." `something something, mitigate the damage.`
