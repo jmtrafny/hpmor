@@ -1,9 +1,19 @@
 Notes:
 
-New rule we need to add to the docs, Merlin holds the Philosopher's Stone.
+Great opening, an intreguing hook.
 
-"The Interdict," Arthur said slowly. "The reason powerful magic cannot be written down. That is not a spell you cast." // This should be rewritten to say: "The Interdict," Arthur said slowly. "The reason powerful magic cannot be written down. The spell you laid upon the world..."
+Arhur seems to know too much for a peasent child... he can have stong opinions (Rome was already dead), but how he came to them must feel organic to how a peasant would arrive at that conclusion.
 
-"My wisest self is tired, Arthur." Merlin's voice was barely audible. "My wisest self has been holding the knife alone for so long that he has forgotten what it felt like to have someone else understand why he cannot put it down." // I'm going to riff on this line for a bit:
+Aurtur's guess on how the plauge works is good, but it should be wrong, make it blood based but Arthurs assumption about breath is based on evidence, but not enough because they don't understand germs yet.
 
-"My wisest self is tired, Arthur." Merlin's voice was barely audible. "My wisest self holds the knife alone and does not know what it felt like to have someone else understand why he cannot put it down. Us, standing here together, proves that I am *not* my wisest self- and that the mirror reflects a world that will never be." `something something, mitigate the damage.`
+The conversation with Lord Bedivere is a little clunky.  I'm glad Bedivere comes around and we can use this to show he is at least sane if not perfectly rational.  But the conversation to convince him shouldn't be that quick/easy.
+
+Brother Marcus was introduced as "the closest thing Arthur had to a court physician", but then Arthur says of Merlin "When I find a competent healer*, Arthur thought, not for the first time, *I will thank Merlin for his service and send him on his way."  This seems contradictory, a bit.
+
+From this line on: "You are preparing for the wrong war, Your Majesty." needs to be rethough.  It's spoiling the story, not forshadowning.  I understand that we don't know the story yet and can't aim for good forshadow targets, but this first conversation is important in setting up the relationship.  Up to now, we've only seen Arthur's perspective, and as a rationalist, Magic and Gods are lies told by the nobility and Merlin is a charlitan who worked his way into the graces of the old royal family.  Arthur suspects that Merlin placed the sword in the stone with the help of stone masons for the purpose of removing the king and sewing doubt about Britans future.  Arthur has heard of "cunning folk" who rose up in the barbarian lands to concor and lord over the dirty masses of people living through the death throws of the worlds greatest empire.  He suspects tricks and superstician.  This first meeting with Merlin should do nothing to disuade him of these notions.
+
+*To die fighting Saxons? To watch a plague hollow out your kingdom? To sit on a cold throne and make decisions no one will follow?*  Should be: "and make decisions with an authority granted by a rock and 100 centimeters of steel" or something like that.
+
+"Arthur shook his head, banishing the thought. There was work to do. There was always work to do." We can continue this to talk about his life as a peasant, the work was physically harder, but kingship is hard in a different way.  He expected a life of luxuray, and he could have it, if he was willing to condemn the rest of Britan to squallor.  He could sit back, get fat off candied fruit and allow his advisors to run roughshot over him and his lands, indeed that is what they expected and wanted.  These last three months had shown them he would not be that boy-king they... bla bla bla expected
+
+We can show Merlin thinking, but we should not be given access to his thoughts.  Per scene, only one POV should be enabled.  Merlin's pov and thoughts on their first meeting can come up later.
