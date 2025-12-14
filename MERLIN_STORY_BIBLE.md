@@ -136,6 +136,16 @@ Medieval Britain, the court of King Arthur. Well before Hogwarts — no formal m
 - Years of study and life experience made him wise
 - Very powerful by the standards of his era
 
+### The Philosopher's Stone
+Merlin holds the Philosopher's Stone — "a very old thing indeed" that predates all recorded magical history. In HPMOR canon, it was later held by Baba Yaga, then stolen by Perenelle. But in this era, Merlin is its keeper.
+
+The Stone's power — "the imposition of permanency" — takes on darker significance given what Merlin knows:
+- He could make the Interdict permanent, carving the scar so deep it never heals
+- He could bind magic forever rather than let it slowly forget its fear
+- The Stone is the knife his wisest self holds
+
+This is why his CEV shows him with the Stone, making the choice. The Stone gives him the *power* to cripple magic permanently. The Mirror shows him the *wisdom* of doing so. What holds him back is something else — compassion, perhaps. Or hope.
+
 ### The Discovery
 Merlin encounters the Mirror. Perhaps in an ancient barrow. Perhaps it finds him — the Benefactor's encoded morality seeking out someone who might understand.
 
