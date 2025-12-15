@@ -82,7 +82,37 @@ Arthur looked at Merlin and saw a man who had placed a sword in a stone with the
 
 *I will find out how you did it*, Arthur promised silently. *And when I do, I will thank you for your service and send you somewhere far from court. Somewhere you cannot whisper in any more ears.*
 
-"You disagree with something, wizard?" Arthur kept his voice flat. "You've stood there for two hours without speaking. Surely you have an opinion."
+And yet.
+
+He had not dismissed Merlin. Three months, and he had not done it. Every time he resolved to—every time he rehearsed the words, *thank you for your service, your counsel is no longer required*—something stopped him. Not fear. Not uncertainty about his authority. Something else.
+
+Something he could not remember.
+
+Arthur's hand twitched toward the hilt of the sword at his belt—an unconscious gesture he'd developed since that day. His fingers brushed the cold metal of the pommel, and for an instant—
+
+*Light. A pressure behind his eyes. The sense of something vast and patient, watching him from—*
+
+He pulled his hand away. The feeling vanished, leaving only the familiar ache in his temples that came whenever he tried to remember what had happened when he drew the sword.
+
+He remembered reaching for the hilt. He remembered the stone yielding. He remembered standing before a crowd of nobles with the blade in his hand, their faces white with shock.
+
+But between the reaching and the holding, there was... nothing. A gap. As if someone had cut a piece out of his memory with a knife and stitched the edges together so cleanly he almost couldn't tell anything was missing.
+
+Almost.
+
+He knew *something* had happened. His body knew it—the way his pulse quickened when he touched the sword, the way his dreams sometimes woke him gasping with images that dissolved before he could grasp them. And there were moments, in councils like this one, when he would *know* things he had no reason to know. When certainty would settle into his bones like a weight, and he would speak with an authority that felt borrowed from someone older and wiser.
+
+*The Saxons will come in force within two years.* He did not know how he knew this. But he knew it the way he knew his own name.
+
+It terrified him.
+
+A rational man did not trust knowledge without sources. A rational man did not believe in visions or prophecies or magical insights. A rational man examined the evidence, formed hypotheses, tested them against reality.
+
+A rational man would have dismissed Merlin months ago.
+
+But something had happened when he drew that sword. Something real. And until Arthur understood what it was—until he could explain it, categorize it, fit it into a framework that made *sense*—he could not quite bring himself to send away the only person who might know the truth.
+
+"You disagree with something, wizard?" Arthur kept his voice flat, burying the unease beneath practiced indifference. "You've stood there for two hours without speaking. Surely you have an opinion."
 
 Merlin's expression didn't change. "You have capable advisors, Your Majesty. They do not need my counsel."
 
@@ -96,33 +126,137 @@ There was no insolence in the words. No challenge. Just a simple statement of fa
 
 Arthur studied the old man's face, looking for the tell—the flicker of calculation, the hidden smirk of a con artist watching his mark take the bait. He found nothing. Just weariness, and something else he couldn't name.
 
+*Do you know what happened to me? Do you know what I saw?*
+
+He didn't ask. Asking would mean admitting that something had happened. Admitting would mean the sword was more than clever stagecraft. And if the sword was real—if the light and the yielding stone and the gap in his memory were *real*—then everything Arthur believed about the world was wrong.
+
+He was not ready for that. Not yet.
+
 "You may go," Arthur said.
 
 Merlin inclined his head and turned away, his walking staff clicking against the stone floor.
 
-Arthur watched him disappear into the shadows of the corridor. *Cryptic nonsense. Riddles and vagaries dressed up as wisdom.* The sooner he found a real physician—someone trained in the healing arts of Rome or Constantinople, someone who understood the body as mechanism rather than mystery—the sooner he could dispense with Merlin entirely.
+Arthur watched him disappear into the shadows of the corridor, then turned back to his advisors. There was still the matter of the eastern villages to address. The plague was spreading faster than the harbor closures could contain, and the people were frightened.
 
-*And yet.*
+"The refugees," Arthur said. "From the plague-struck ports. Where are they going?"
 
-The sword had come to him in a pillar of light. The stone had opened at his touch like a flower greeting the sun. Arthur had examined that stone afterward—had run his hands over every seam, had questioned the masons who supposedly could not explain how it was made. He had found no hidden mechanism. No clever trick. Just solid rock that had somehow yielded to him and him alone.
+Lord Ector shifted uncomfortably. "Inland, Your Majesty. They flee to family in the western holdings, or they simply... wander. Looking for anywhere the sickness hasn't reached."
 
-*Chosen you for what?* a voice whispered in his mind. *To die fighting Saxons? To watch a plague hollow out your kingdom? To sit on a cold throne and make decisions with authority granted by a rock and a hundred centimeters of steel?*
+"And we're letting them?"
 
-Arthur shook his head, banishing the thought. There was work to do. There was always work to do.
+"We cannot stop them, Your Majesty. They are British subjects. They have the right to travel the king's roads."
 
-The work had been different as a peasant—harder on the body, simpler in the mind. Wake before dawn. Tend the animals. Work the fields. Eat what you could. Sleep when the light failed. His muscles had ached every night, but his thoughts had been his own.
+Arthur thought of old Marta. Of the son who had brought the sickness home from the eastern markets. Of the way the plague had jumped from house to house, following the threads of contact like fire along a fuse.
 
-Kingship was harder in a different way. He had expected luxury when he first arrived at court—the soft beds and rich foods the village storytellers described. And he could have had them, if he was willing to let his advisors run roughshod over him and his lands. He could sit back, grow fat on candied fruits, and let the lords do as they pleased while Britain crumbled. That was what they expected. What they wanted. A boy-king who would sign what they put in front of him and stay out of the way.
+"The refugees are carrying the plague with them," Arthur said slowly. "Every village they pass through, every family that takes them in—they spread it further. The more they travel, the more people die."
 
-These last three months had shown them otherwise.
+Silence. The advisors looked at one another.
 
-Arthur strode out of the throne room, already composing the letters he would need to send. Census demands. Supply requisitions. Requests for maps and scouts. A hundred small preparations for a war that might be a year away or might already be beginning.
+"What would you have us do, Your Majesty?" Ector asked carefully. "Turn them back? Let them starve on the roads?"
 
-Behind him, in the shadows of the pillar, Merlin had paused.
+"No." Arthur's mind was racing, fitting pieces together. "We establish way stations. Here, here, and here." He gestured at the map spread across the council table. "Anyone fleeing the eastern ports must stop at a way station for... call it a fortnight. If they show no signs of sickness after fourteen days, they may continue. If they sicken, they stay until they recover or..." He didn't finish the sentence.
 
-The old wizard stood motionless for a long moment, watching the space where Arthur had been. His face betrayed nothing. His thoughts remained his own.
+"You wish to imprison healthy citizens," Ector said flatly. "British subjects, held against their will."
 
-Then he turned and walked into the darkness, his staff clicking a slow rhythm against the stone.
+"I wish to *save* healthy citizens. The ones in the western villages who don't yet know the plague is coming for them." Arthur leaned forward. "Lord Ector, if a man's house is on fire, do you let him run into a crowd carrying burning timbers? Or do you stop him at the door until the flames are out?"
+
+"Men are not timbers, Your Majesty."
+
+"No. They're worse. Timbers don't have families who hide them when the authorities come looking. Timbers don't lie about where they've been." Arthur straightened. "The way stations will have food, shelter, and what healers we can spare. No one will starve. No one will be turned away. But no one leaves until we're certain they won't carry the plague to new victims."
+
+"The lords of the western holdings will never accept this," Bedivere said quietly. "Their people will see it as tyranny. The crown, imprisoning the innocent."
+
+"The crown, protecting the innocent. There's a difference."
+
+"Is there?" Bedivere met his eyes. "To the man held against his will, does it matter why?"
+
+Arthur opened his mouth to respond—
+
+The doors of the throne room burst open.
+
+A rider stood in the entrance, mud-spattered and gasping, still wearing the leather cap of a royal messenger. He had clearly ridden hard; his horse was probably dying in the courtyard.
+
+"Your Majesty." The man's voice cracked. "Urgent news from the eastern coast."
+
+Arthur felt a cold weight settle in his stomach. That borrowed certainty again—knowledge without source, understanding without evidence. Whatever the messenger had to say, it would be bad.
+
+"Speak."
+
+"Camlann, Your Majesty. The village of Camlann." The messenger swallowed. "They received refugees from Londinium three weeks ago. Families fleeing the plague. The village elders took them in, fed them, gave them shelter."
+
+"And?"
+
+"The plague struck six days later. It spread so fast—" The messenger's voice broke. "By the time word reached us, half the village was dead. The survivors tried to flee to the neighboring holdings, but the local lord had heard what happened. He..." The man looked down. "He turned them away at spearpoint. The sick and the healthy alike. Said he would not let Camlann's fate become his own."
+
+Arthur's hands had gone cold.
+
+"How many?" he heard himself ask.
+
+"Dead? Perhaps two hundred, Your Majesty. Those turned away—we don't know. They scattered into the countryside. Some will find shelter with distant kin. Others..." The messenger trailed off. "The local lord is asking for guidance. And for soldiers, if the refugees try to force their way past his borders."
+
+The throne room was silent.
+
+Arthur stared at the map on the council table. At the marks he had made for his way stations. At the neat, rational plan that would have saved Camlann if it had been implemented three weeks ago.
+
+*Compassion*, he had thought. *Shelter and food and healers. The humane solution.*
+
+But the humane solution required time. Required building way stations and staffing them and convincing the lords to cooperate. Weeks of preparation, at minimum. And the plague did not wait for preparation.
+
+The lord who had turned the refugees away at spearpoint—he had not been humane. He had been *fast*. And his people were still alive.
+
+"Your Majesty?" Ector's voice was carefully neutral. "Your orders regarding the way stations?"
+
+Arthur looked at the map. At the villages that had not yet been touched. At the roads the refugees would travel, carrying their invisible fire from holding to holding.
+
+The way stations would save lives. He still believed that. But they would take weeks to establish. And in those weeks, how many Camlanns would burn?
+
+*The humane choice*, whispered a voice in his mind—his own voice, or something older, he couldn't tell. *The compassionate choice. And how many die while you're being compassionate?*
+
+He thought of the lord with the spears. Of the refugees scattered into the countryside, carrying plague to every village that showed them kindness. Of the terrible arithmetic of contagion—one sick traveler becoming ten, becoming a hundred, becoming a thousand.
+
+*This is what it means to rule*, Arthur thought. *Not choosing between good and evil. Choosing between evil and evil, and living with whichever one you pick.*
+
+"The way stations proceed as planned," he said finally. His voice sounded distant, mechanical. "But until they are ready—" He stopped. Swallowed. "Until they are ready, any lord who wishes to close his borders to refugees from plague-struck areas has the crown's permission to do so."
+
+Ector's eyebrows rose. "Your Majesty, moments ago you argued—"
+
+"I argued for what *should* be. I am ordering what *must* be." Arthur could not look at the messenger. Could not think about the families turned away at spearpoint, wandering the roads with nowhere to go. "Draft the proclamation. Any lord who closes his borders must also provide supplies for those turned away—food enough to survive until the way stations are ready. That much, we can require."
+
+"And if they refuse to provide supplies?"
+
+"Then their borders remain open, and they can explain to their people why they chose pride over protection."
+
+It was not enough. Arthur knew it was not enough. People would die because of this order—refugees who might have found shelter, villages that might have been saved if he had acted faster, thought harder, been *better*.
+
+But people would die regardless. The only question was how many, and where, and whether Arthur could live with the answer.
+
+*This is what the sword chose me for*, he thought, and the thought tasted like ash. *Not glory. Not justice. This.*
+
+He became aware that Merlin had not left the throne room after all.
+
+The old wizard stood in the shadows by the door, watching. His face was unreadable, but something in his posture had changed—a subtle tension, as if he were waiting for something.
+
+Their eyes met.
+
+Arthur expected mockery. Expected *I told you so* or *now you understand* or some other cryptic pronouncement dressed up as wisdom.
+
+Merlin said nothing. He simply looked at Arthur for a long moment—looked at him the way you might look at someone carrying a weight you recognized—and then inclined his head, very slightly, and walked away.
+
+Arthur watched him go.
+
+For the first time, he did not think *charlatan*.
+
+He thought: *He knows. Whatever this is—whatever I'm becoming—he knows.*
+
+And he thought: *He's waiting for me to be ready to ask.*
+
+The question was whether Arthur would ever be ready. Whether he could afford to be.
+
+Behind him, the advisors were already arguing about supply lines and border protocols and the logistics of mercy constrained by mathematics. Arthur turned back to the map, to the work that never ended, to the weight of decisions that could not be unmade.
+
+The sword hung heavy at his hip.
+
+He did not touch it.
 
 ---
 
