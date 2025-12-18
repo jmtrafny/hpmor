@@ -24,10 +24,16 @@ hpmor/
 │   │   ├── STORY_ARCHITECTURE.md   # Phase 0 output
 │   │   ├── CHARACTER_PROFILES.md   # Phase 1 output
 │   │   ├── WORLD_BIBLE.md          # Phase 1 output
-│   │   └── FOUNDATION_SYNTHESIS.md # Phase 1 synthesis
+│   │   ├── FOUNDATION_SYNTHESIS.md # Phase 1 synthesis
+│   │   ├── PLOT_OUTLINE.md         # Phase 2 output (25-chapter outline)
+│   │   ├── CONTINUITY_BIBLE.md     # Phase 2 output (timeline/tracking)
+│   │   └── VOICE_CALIBRATION_REPORT.md # Phase 3A voice analysis
 │   │
 │   ├── chapters/               # Draft chapters and scenes
-│   │   ├── CHAPTER_ONE.md
+│   │   ├── CHAPTER_ONE.md          # Original draft
+│   │   ├── CHAPTER_ONE_REVISED.md  # Phase 3A revision (use this)
+│   │   ├── CHAPTER_TWO.md          # Phase 3A draft (Merlin POV)
+│   │   ├── CHAPTER_THREE.md        # Phase 3A draft (Healer's Refusal)
 │   │   ├── CHAPTER_IDEA_PENDRAGON.md
 │   │   ├── THE_MIRROR_SHOWS_ARTHUR.md
 │   │   └── MIDPOINT_CRUX.md
@@ -52,8 +58,10 @@ This project uses a structured multi-agent workflow with human validation gates.
 ### Phases
 - **Phase 0**: Story Architecture (COMPLETE - approved at Human Gate 0)
 - **Phase 1**: Foundation (COMPLETE - Character Profiles + World Bible)
-- **Phase 2**: Structure (NEXT - Plot Developer + Continuity Keeper)
-- **Phase 3**: Writing (Scene Writer + Dialogue Specialist)
+- **Phase 2**: Structure (COMPLETE - Plot Outline + Continuity Bible)
+- **Phase 3A**: Opening Chapters 1-3 (COMPLETE - under revision)
+- **Phase 3B**: Middle Chapters 4-10 (NEXT - parallel Arthur/Merlin streams)
+- **Phase 3C**: Convergence Chapters 11-25 (pending)
 - **Phase 4**: Polish (Editor + Final Review)
 
 ### Available Agents
@@ -108,6 +116,17 @@ Arthur's rationalist principles clash with Merlin's terrible knowledge: the last
 
 ## Current Status
 
-**Phase 1 Complete** - Foundation approved. Ready for Phase 2: Structure.
+**Phase 3A Complete** - Opening chapters 1-3 drafted and under human revision.
 
-Next step: Execute Plot Developer to create detailed chapter outline.
+### What's Done:
+- Chapters 1-3 drafted (CHAPTER_ONE_REVISED.md, CHAPTER_TWO.md, CHAPTER_THREE.md)
+- Voice calibration report completed
+- 25-chapter plot outline in PLOT_OUTLINE.md
+- Timeline/continuity tracking in CONTINUITY_BIBLE.md
+
+### Next Step (Phase 3B):
+Write chapters 4-10 using parallel streams:
+- **Arthur Stream**: Chapters 4-7 (Lancelot intro, plague politics, Saxon wizard)
+- **Merlin Stream**: Interludes 2-4 (memory fragments, watching Arthur)
+
+To resume: Read PLOT_OUTLINE.md for chapter specifications, CHARACTER_PROFILES.md for voice guides.

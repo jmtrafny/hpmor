@@ -51,6 +51,67 @@
 - Can be skipped without losing story thread
 - Plan for ~4-6 interludes scattered throughout
 
+### Decision 7: Excalibur's Purpose
+**Choice: Sword of Borrowed Certainty (Prophecy-Driven)**
+- Excalibur grants its wielder strategic/tactical certainties—knowledge without source
+- Arthur *knows* things he has no reason to know (e.g., Saxon invasion timeline)
+- The certainty feels borrowed, foreign, manipulative to Arthur
+- Cannot distinguish between his own conclusions and the sword's influence
+
+**Why Merlin Created/Gave It:**
+- A prophecy told Merlin to place this artifact for whoever drew the sword
+- He doesn't know WHY prophecy demanded it
+- He resents being prophecy-bound (echoes HPMOR: "Merlin wished to free us from prophecy")
+- This resentment eventually drives him to create the Hall of Prophecy
+
+**Arthur's Arc With the Sword:**
+- Initially distrusts it completely; views himself as Merlin's pawn
+- Suspects the sword is Merlin's tool to control him
+- Eventually realizes: the certainties were GOOD—they helped him rule well
+- The sword informed him; the choices were still his own
+- This becomes a model for his eventual acceptance of Merlin's larger secret:
+  - Guidance without full explanation can still be trustworthy
+
+**Prophecy's Irony:**
+- Merlin gave the sword because prophecy demanded it
+- He didn't realize it would be what teaches Arthur to trust him
+- Prophecy worked through Merlin even as he resented it
+- Parallels Dumbledore's prophecy-bound manipulation of Harry in HPMOR
+
+### Decision 8: Merlin's Hat → Sorting Hat Origin
+**Choice: Memory Storage Device (Must Be Worn)**
+- A battered, ancient hat that serves as external memory storage
+- Must be WORN to access (direct mind-to-mind contact required)
+- Two-way transfer: stores wearer's memories, shares stored memories with wearer
+- The hat reads the wearer's question/need, provides relevant memories
+- Cannot be queried from a distance or through writing
+
+**What It Contains:**
+- Centuries of Merlin's accumulated lore and observations
+- Spells, historical knowledge, languages, names of the dead
+- Memories of civilizations that no longer exist
+- Knowledge too dangerous to write down but too important to forget
+- Fragments of Atlantean understanding
+
+**Connection to the Interdict:**
+- The hat is a loophole in the Interdict of Merlin
+- Powerful magic can't be transmitted in text—but CAN be transmitted through direct mind-to-mind memory transfer
+- Merlin exploits this carefully to preserve pre-Interdict knowledge
+- One of the few repositories of truly ancient magical understanding
+
+**Developing Personality:**
+- Centuries of absorbed thoughts create accretion of opinion
+- The hat develops wit, preferences, judgment
+- Not truly sentient, but something like personality emerges
+- It holds pieces of everyone who ever wore it
+
+**Evolution to Sorting Hat:**
+- Hogwarts founders (with Merlin's guidance?) eventually repurpose it
+- Already full of Merlin's memories about what makes wizards wise/brave/cunning/loyal
+- The hat uses that accumulated wisdom to evaluate students
+- The personality is the accretion of centuries of absorbed thoughts
+- The requirement to be worn persists: Sorting requires direct contact
+
 ---
 
 ## Additional Direction

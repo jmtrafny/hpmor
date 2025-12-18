@@ -435,6 +435,89 @@ A rationalist king who believes all knowledge should be free confronts a wizard 
 - Mentioned obliquely 2-3 times, never named explicitly
 - To HPMOR readers: recognizable; to general readers: mysterious artifact
 
+### Magical Artifacts in Arthur's Era
+
+**Excalibur: The Sword of Borrowed Certainty**
+
+The sword Arthur pulled from the stone is not merely a symbol of divine right—it is a magical artifact that grants its wielder strategic and tactical certainties. Knowledge without source. Arthur *knows* things he has no reason to know.
+
+*How It Works*:
+- Provides intuitive knowledge about threats, opportunities, and outcomes
+- Arthur knows the Saxons will invade within two years—he simply *knows*
+- The certainty feels borrowed, foreign, slightly manipulative
+- Cannot distinguish between his own conclusions and the sword's influence
+- Works only when worn/carried; the knowledge fades when separated from it
+
+*Why It's Dangerous*:
+- Arthur cannot trust his own thinking while wielding it
+- He suspects Merlin is using the sword to control him, make him a puppet
+- The sword's guidance may be correct but still represents manipulation
+- Arthur's autonomy feels compromised—is he ruling or being ruled?
+
+*Why Merlin Created/Gave It*:
+- A prophecy told Merlin to give this artifact to whoever drew the sword from stone
+- He doesn't know WHY prophecy demanded it
+- He resents being prophecy-bound (echoes HPMOR: "Merlin wished to free us from prophecy")
+- This resentment eventually drives Merlin to create the Hall of Prophecy—an attempt to understand, contain, and control prophetic magic
+- He didn't realize the sword would teach Arthur to trust him
+
+*Arthur's Arc With the Sword*:
+- Initially distrusts it completely; views himself as Merlin's pawn
+- Tries to rule without it, fails to anticipate obvious threats
+- Realizes the certainties were GOOD—they helped him rule well
+- The sword informed him; the choices were still his own
+- This becomes a model for accepting guidance without full explanation
+- The sword relationship prefigures his eventual acceptance of Merlin's larger secret
+
+*Prophecy's Irony*:
+- Merlin gave the sword because prophecy demanded it
+- He didn't realize it would be what teaches Arthur to trust him
+- Prophecy worked through Merlin even as he resented it
+- Parallels Dumbledore's prophecy-bound manipulation of Harry in HPMOR
+
+**Merlin's Hat: The Memory Repository** (Future Sorting Hat)
+
+Merlin possesses a battered, ancient hat that serves as an external memory storage device. Too much knowledge for one mind to hold—even an immortal one. The hat holds what Merlin cannot carry alone.
+
+*How It Works*:
+- Must be WORN to access (direct mind-to-mind contact required)
+- Two-way transfer: stores wearer's memories, shares stored memories with wearer
+- Hat reads the wearer's question or need, provides relevant memories
+- Cannot be queried from a distance or through writing
+- The intimacy of wearing creates vulnerability—you can't casually access it
+
+*What It Contains*:
+- Centuries of Merlin's accumulated lore and observations
+- Spells, historical knowledge, languages, names of the dead
+- Memories of civilizations that no longer exist
+- Knowledge too dangerous to write down but too important to forget
+- Fragments of Atlantean understanding, filtered through Merlin's comprehension
+
+*The Developing Personality*:
+- Centuries of absorbed thoughts have created accretion of opinion
+- The hat develops wit, preferences, judgment
+- Not truly sentient, but something like personality emerges from accumulated memories
+- It holds pieces of everyone who ever wore it
+
+*Connection to the Interdict*:
+- The hat is a loophole in the Interdict of Merlin
+- Powerful magic can't be transmitted in text—but CAN be transmitted through direct mind-to-mind memory transfer
+- Merlin exploits this carefully to preserve pre-Interdict knowledge
+- One of the few repositories of truly ancient magical understanding
+
+*Evolution to Sorting Hat*:
+- Hogwarts founders (with Merlin's guidance?) eventually repurpose it
+- Already full of Merlin's memories about what makes wizards wise, brave, cunning, loyal
+- The hat uses that accumulated wisdom to evaluate students
+- The personality is the accretion of centuries of absorbed thoughts—explains its wit and opinions
+- The requirement to be worn persists: Sorting requires direct contact
+
+*Narrative Function*:
+- Explains how Merlin preserves knowledge across centuries without writing it down
+- Creates interesting scenes where characters must physically wear the hat
+- Seeds the origin of a beloved HPMOR/HP artifact
+- Shows Merlin's relationship with memory, knowledge, and loneliness
+
 **The Benefactor** (Atlantean engineer):
 - Never named in the story (remains anonymous, universal)
 - Genuinely good person, morally right to want democratization

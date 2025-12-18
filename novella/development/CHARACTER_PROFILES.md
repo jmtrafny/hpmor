@@ -72,10 +72,37 @@
 ### HPMOR vs. Canon Divergences
 
 - Not Uther's biological son—truly a peasant who pulled the sword
-- No mystical destiny or prophecy—the sword's test was mechanical, not magical
 - Educated in fragments of Roman learning, not courtly tradition
 - Has known hunger, labor, and class prejudice firsthand
 - His "rationalism" is natural observation, not formal training
+- The sword is genuinely magical—grants "borrowed certainty" (see below)
+
+### Excalibur: The Sword of Borrowed Certainty
+
+**What It Does**:
+- Grants Arthur strategic/tactical certainties—knowledge without source
+- Arthur *knows* the Saxons will invade within two years; he simply knows
+- The certainty feels borrowed, foreign, slightly manipulative
+- Cannot distinguish between his own conclusions and the sword's influence
+
+**Arthur's Problem With It**:
+- He distrusts his own thinking while wielding Excalibur
+- Suspects Merlin is using the sword to control him, make him a puppet
+- The sword's guidance may be correct but still represents manipulation
+- His autonomy feels compromised—is he ruling or being ruled?
+
+**Arthur's Arc With the Sword**:
+- Initially distrusts it completely; views himself as Merlin's pawn
+- Tries to rule without it, fails to anticipate obvious threats
+- Realizes the certainties were GOOD—they helped him rule well
+- The sword informed him; the choices were still his own
+- This becomes a model for accepting guidance without full explanation
+- The sword relationship prefigures his eventual acceptance of Merlin's larger secret
+
+**Narrative Function**:
+- The sword is practice for trusting Merlin
+- Arthur learns that guidance without full transparency can still be trustworthy
+- His journey with Excalibur mirrors his journey with the Atlantis secret
 
 ### Personality & Motivations
 
@@ -323,6 +350,27 @@
 - Wears simple robes—deliberately unremarkable
 
 **Note**: Possesses the Philosopher's Stone ("imposition of permanency"), which grants effective immortality. This is how he's survived centuries. The Stone is mentioned obliquely, never directly—"a very old thing indeed" in his possession.
+
+### Key Artifacts
+
+**Excalibur: The Sword of Borrowed Certainty**
+- Merlin placed Excalibur in the stone because a prophecy demanded it
+- The sword grants its wielder strategic/tactical certainties—knowledge without source
+- Merlin doesn't know WHY prophecy demanded this (resents being prophecy-bound)
+- He didn't realize the sword would teach Arthur to trust him
+- Prophecy worked through Merlin even as he resented it
+- His resentment of prophecy eventually drives him to create the Hall of Prophecy—an attempt to understand, contain, and control prophetic magic
+- Parallel to Dumbledore's prophecy-bound manipulation of Harry in HPMOR
+
+**Merlin's Hat: The Memory Repository** (Future Sorting Hat)
+- A battered, ancient hat that serves as external memory storage
+- Must be WORN to access (direct mind-to-mind contact required)
+- Two-way transfer: stores wearer's memories, shares stored memories with wearer
+- Contains centuries of accumulated lore: spells, history, languages, names of the dead
+- A loophole in the Interdict—powerful magic can't be written but CAN be transmitted mind-to-mind
+- The hat develops something like personality from absorbed thoughts
+- Eventually repurposed by Hogwarts founders as the Sorting Hat
+- Shows Merlin's relationship with memory, knowledge, and loneliness
 
 ### HPMOR vs. Canon Divergences
 
